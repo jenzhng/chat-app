@@ -8,7 +8,6 @@ npm run dev
 ```
 ### Future improvements
 
-- implement Auth
 - add usernames
 - see prior chat history when joining room
 - implement room function
