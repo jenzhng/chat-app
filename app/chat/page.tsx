@@ -1,3 +1,4 @@
+// `app/chat/page.tsx` is the UI for the `/chat` URL
 "use client"
 import Head from 'next/head';
 import React, { useEffect, useState } from 'react';
