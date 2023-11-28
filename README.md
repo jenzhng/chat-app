@@ -1,6 +1,12 @@
 
 ## ChatApp Created with NextJS and Ably
 
+Install packages:
+
+```bash
+npm install
+```
+
 First, run the development server:
 
 ```bash
@@ -17,4 +23,6 @@ npm run dev
 - implement room function
 ### Screenshots
 ![Alt text](UML-image.PNG "UML-Diagram")
-
+![Alt text](homepage.PNG "HomePage")
+![Alt text](updatespage.PNG "UpdatesPage")
+![Alt text](chatpage.PNG "ChatPage")
