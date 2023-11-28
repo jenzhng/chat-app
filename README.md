@@ -24,5 +24,5 @@ npm run dev
 ### Screenshots
 ![Alt text](UML-image.PNG "UML-Diagram")
 ![Alt text](homepage.PNG "HomePage")
-![Alt text](updatespage.PNG "UpdatesPage")
-![Alt text](chatpage.PNG "ChatPage")
+![Alt text](updatespage-1.PNG "UpdatesPage")
+![Alt text](chatpage-1.PNG "ChatPage")
